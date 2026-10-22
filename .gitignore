@@ -1,6 +1,22 @@
-.env
+# Ambiente virtual
 .venv/
+
+# Variáveis de ambiente
+.env
+
+# PyCharm
 .idea/
+
+# Python
 __pycache__/
 *.pyc
+
+# Dados locais
 data/
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# Jupyter Notebook
+.ipynb_checkpoints/
